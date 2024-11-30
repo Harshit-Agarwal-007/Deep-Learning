@@ -1,2 +1,2 @@
 # Deep-Learning
-This repo is proof of me learning Deep Learning
+Some sample codes that I tried out for the first time.
